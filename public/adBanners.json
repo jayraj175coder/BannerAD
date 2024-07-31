@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "title": "Boosts Your Loads",
+      "description": "This is the description for who passionate about tech field.",
+      "cta": "Learn More",
+      "image": "/images/image4.jpg",
+
+      "background": "#004953"
+    },
+    {
+      "id": 2,
+      "title": "Make it What you DO",
+      "description": "This is the description for for do creative things that happens..",
+      "cta": "Shop Now",
+      "image": "/images/banner2.jpg",
+      "background": "#000"
+    },
+    {
+        "id": 3,
+        "title": "AI in Banner",
+        "description": "Want to make it the things that make ai banner .",
+        "cta": "Shop Now",
+        "image": "/images/image3.jpg",
+        "background": "/images/template2.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Software Dev Fact",
+        "description": "This is the description for software techie who used to do those things.",
+        "cta": "SEE Now",
+        "image": "/images/banner1.jpg",
+
+        "background": "/images/template4.jpg"
+      }
+  ]
+  
