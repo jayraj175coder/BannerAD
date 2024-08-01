@@ -4,15 +4,10 @@
 import React, { useState, useEffect } from 'react';
 import BannerImageComp from '@/components/BannerImageComp';
 import EditBannerTemplateBs from '@/components/EditBannerTemplateBs';
+import { AdBanner } from '@/types';
+
              
-interface AdBanner {
-  id: number;
-  title: string;
-  description: string;
-  cta: string;
-  imageUrl: string;
-  backgroundColor?: string;
-}
+
 
 const Home: React.FC = () => {
   const [banners, setBanners] = useState<AdBanner[]>([]);
