@@ -4,7 +4,7 @@
 import React, { useState, useEffect } from 'react';
 import BannerImageComp from '@/components/BannerImageComp';
 import EditBannerTemplateBs from '@/components/EditBannerTemplateBs';
-
+             
 interface AdBanner {
   id: number;
   title: string;

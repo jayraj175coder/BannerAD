@@ -1,3 +1,4 @@
+import { AdBanner } from '@/types';
 import React, { useState, useRef } from 'react';
 
 interface EditBannerProps {

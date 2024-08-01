@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import BannerImageComp from './BannerImageComp';
 import EditBannerTemplateBs from './EditBannerTemplateBs';
-import { AdBanner } from '../types';
+import { AdBanner } from '@/types';
 
 const ParentComponent: React.FC = () => {
   const [banner, setBanner] = useState<AdBanner>({

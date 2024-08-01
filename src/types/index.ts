@@ -1,5 +1,6 @@
-// src/types.ts
+// src/types/index.ts
 export interface AdBanner {
+    id: number;
     title: string;
     description: string;
     cta: string;

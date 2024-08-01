@@ -1,5 +1,5 @@
 import React from 'react';
-import { AdBanner } from '../types';
+import { AdBanner } from '@/types';
 import './BannerImageComp.css';
 
 interface BannerImageCompProps {
